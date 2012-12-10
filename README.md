@@ -1,1 +1,1 @@
-First repo on GitHub
+Template based on Brunch-Chaplin with CoffeScript, Compass and Sass
